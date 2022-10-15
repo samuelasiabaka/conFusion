@@ -19,10 +19,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "grunt": "^1.0.2",
+    "jit-grunt": "^0.10.0",
     "lite-server": "^2.3.0",
     "onchange": "^3.3.0",
     "parallelshell": "^3.0.2",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "time-grunt": "^2.0.0"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
